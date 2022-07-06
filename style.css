@@ -17,7 +17,7 @@ body {
   padding-top: 60px;
 }
 #button {
-  background-image: linear-gradient(tomato, orange);
+  background-image: linear-gradient(tomato, orange, red);
   color: white;
   font-size: 20px;
   padding: 15px;
@@ -74,7 +74,7 @@ hr {
   display: flex;
   margin-left: 150px;
   margin-right: 150px;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 }
 .section3box1 {
   background-color: rgba(141, 216, 216, 0.178);
@@ -96,4 +96,27 @@ hr {
   padding-top: 60px;
   padding-left: 15px;
   padding-right: 30px;
+}
+.section4 {
+  margin-bottom: 100px;
+}
+.section4pdiv {
+  display: flex;
+  margin-left: 10%;
+}
+.half_width1 {
+  width: 40%;
+}
+.half_width1 h1 {
+  font-size: 50px;
+}
+.half_width2 {
+  width: 40%;
+}
+.half_width2 img {
+  width: 100%;
+  margin-left: 12%;
+}
+.contribute {
+  color: royalblue;
 }
