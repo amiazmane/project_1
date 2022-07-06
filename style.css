@@ -120,3 +120,17 @@ hr {
 .contribute {
   color: royalblue;
 }
+.section6div1 {
+  text-align: center;
+}
+footer {
+  padding-top: 30px;
+  color: white;
+  margin-top: 100px;
+  text-align: center;
+  height: 150px;
+  background-color: black;
+}
+footer h1 {
+  color: tomato;
+}
