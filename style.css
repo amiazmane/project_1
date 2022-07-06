@@ -1,0 +1,99 @@
+.section1 {
+  background-image: url(header_image4.jpeg);
+  height: 600px;
+  background-position: 100%;
+  background-size: cover;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+body {
+  margin: 0;
+}
+#header h1 {
+  color: aqua;
+}
+#header {
+  padding-top: 60px;
+}
+#button {
+  background-image: linear-gradient(tomato, orange);
+  color: white;
+  font-size: 20px;
+  padding: 15px;
+  border-radius: 10px;
+  font-weight: 900;
+  text-decoration: none;
+}
+#donate_part {
+  margin-top: 100px;
+  text-align: center;
+}
+#donate_part h1 {
+  font-size: 30px;
+}
+#box_part {
+  display: flex;
+  margin-left: 380px;
+}
+.box {
+  margin-left: 20px;
+  background-color: whitesmoke;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: justify;
+  font-weight: 900;
+  font-size: 20px;
+  font-family: "Gentium Book Plus", serif;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto", sans-serif;
+  color: grey;
+}
+.box2 {
+  background-color: rgba(255, 99, 71, 0.24);
+  border: solid red;
+  text-align: center;
+}
+.section2div2 {
+  text-align: center;
+  margin-top: 50px;
+}
+hr {
+  margin-left: 400px;
+  margin-right: 370px;
+  margin-bottom: 50px;
+}
+.section2div3 {
+  text-align: center;
+  margin-top: 80px;
+}
+.section2div3 h1 {
+  font-size: 30px;
+}
+.section3pdiv {
+  display: flex;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-bottom: 50px;
+}
+.section3box1 {
+  background-color: rgba(141, 216, 216, 0.178);
+  margin-right: 20px;
+  padding-top: 60px;
+  padding-left: 15px;
+  padding-bottom: 100px;
+  padding-right: 30px;
+}
+.section3box2 {
+  background-color: rgba(255, 192, 203, 0.247);
+  margin-right: 20px;
+  padding-top: 60px;
+  padding-left: 15px;
+  padding-right: 30px;
+}
+.section3box3 {
+  background-color: rgba(255, 255, 0, 0.247);
+  padding-top: 60px;
+  padding-left: 15px;
+  padding-right: 30px;
+}
