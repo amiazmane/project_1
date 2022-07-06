@@ -11,7 +11,12 @@ body {
   margin: 0;
 }
 #header h1 {
-  color: aqua;
+  color: white;
+  text-shadow: 3px 3px 2px black;
+}
+#header p {
+  color: white;
+  text-shadow: 3px 3px 2px black;
 }
 #header {
   padding-top: 60px;
@@ -124,6 +129,36 @@ hr {
 }
 .contribute {
   color: black;
+}
+.section5pdiv {
+  display: flex;
+  height: 500px;
+  margin-left: 150px;
+  padding-top: 100px;
+}
+.section5div1 {
+  height: 300px;
+  width: 30%;
+  border-right: 5px solid red;
+  text-align: center;
+}
+.section5div2 {
+  height: 300px;
+  width: 30%;
+  border-right: 5px solid red;
+  margin-left: 20px;
+  text-align: center;
+}
+.section5div3 {
+  height: 400px;
+  width: 30%;
+  margin-left: 20px;
+  text-align: center;
+}
+.s5commonclass {
+  color: red;
+  letter-spacing: 1px;
+  text-decoration: underline;
 }
 .section6div1 {
   text-align: center;
